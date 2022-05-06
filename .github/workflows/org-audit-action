@@ -1,0 +1,2 @@
+- name: Membership Audit Action for Enterprises and Organizations
+  uses: SvanBoxel/org-audit-action@0.1.0
